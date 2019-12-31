@@ -4,7 +4,7 @@ app/release
 app/src/main/libs/
 app/src/main/obj/
 local.properties
-app/.cxx/*
+
 
 # Stolen from: https://github.com/google/iosched/blob/master/.gitignore and http://stackoverflow.com/questions/16736856/what-should-be-in-my-gitignore-for-an-android-studio-project
 # build native files
