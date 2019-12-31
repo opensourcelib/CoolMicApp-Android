@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "C:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk",
+    "C:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "coolmic-dsp-java-debug-x86": {
+      "artifactName": "coolmic-dsp-java",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcoolmic-dsp-java.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libcoolmic-dsp-java.so"
+    },
+    "vorbis-debug-x86": {
+      "artifactName": "vorbis",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libvorbis.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libvorbis.so"
+    },
+    "shout-debug-x86": {
+      "artifactName": "shout",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libshout.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libshout.so"
+    },
+    "coolmic-dsp-debug-x86": {
+      "artifactName": "coolmic-dsp",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libcoolmic-dsp.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libcoolmic-dsp.so"
+    },
+    "ogg-debug-x86": {
+      "artifactName": "ogg",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libogg.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libogg.so"
+    },
+    "opus-debug-x86": {
+      "artifactName": "opus",
+      "buildCommand": "C:\\Android\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/android-projects/CoolMicApp-Android/app/build/intermediates/ndkBuild/debug/obj/local/x86/libopus.so",
+      "abi": "x86",
+      "output": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libopus.so"
+    }
+  }
+}

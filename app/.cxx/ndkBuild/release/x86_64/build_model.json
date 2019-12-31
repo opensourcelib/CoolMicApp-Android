@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\android-projects\\CoolMicApp-Android",
+      "sdkFolder": "C:\\Android",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\android-projects\\CoolMicApp-Android\\app",
+      "makeFile": "C:\\android-projects\\CoolMicApp-Android\\app\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "C:\\android-projects\\CoolMicApp-Android\\.cxx",
+      "cxxFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx",
+      "ndkFolder": "C:\\Android\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+    "objFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local",
+    "jsonFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release",
+    "gradleBuildOutputFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64",
+  "jsonFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "C:\\android-projects\\CoolMicApp-Android\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64",
+  "buildCommandFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\android-projects\\CoolMicApp-Android\\app\\.cxx\\ndkBuild\\release\\x86_64\\compile_commands.json"
+}
